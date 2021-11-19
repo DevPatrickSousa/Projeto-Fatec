@@ -1,6 +1,6 @@
 # Projeto-Fatec
 
-Este projeto foi desenvolvido como um protótipo para o gerenciamento de produtos. Além disso, este projeto contém o armazenamento da imagem de um produto dentro do banco de dados, nesse caso foi utilizado como banco o MYSQL.
+Este projeto foi desenvolvido como um protótipo para o gerenciamento de vendas. Além disso, este projeto contém o armazenamento da imagem de um produto dentro do banco de dados, nesse caso foi utilizado como banco o MYSQL.
 
 *TELA INICIAL DO SISTEMA*
 
